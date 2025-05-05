@@ -2,7 +2,7 @@
 
 A Java-based desktop application for managing hospital operations such as patient records, nurse assignments, and doctor scheduling. Built using the Swing library and structured using the MVC (Model-View-Controller) pattern.
 
-## ✨ Features
+## Features
 
 - Add, edit, and remove patient, doctor, and nurse records
 - Manage appointments and staff schedules
@@ -10,7 +10,7 @@ A Java-based desktop application for managing hospital operations such as patien
 - Data persistence using serialization
 - Modular design with clear separation of concerns
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 src/
@@ -24,7 +24,7 @@ src/
 └── view/             # GUI components and layout
 ```
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites:
 - Java JDK 8 or above
@@ -41,14 +41,14 @@ java -jar EX3_206540007_315489856.jar
 2. Compile the `src` folder
 3. Run the main GUI class from the `view` package (e.g., `MainWindow.java`)
 
-## 📦 External Libraries
+## External Libraries
 - `jcalendar-1.4.jar` – for calendar UI components
 
-## 🛠 Technologies Used
+## Technologies Used
 - Java
 - Swing GUI
 - MVC Design Pattern
 - Java Serialization
 
-## 📄 License
+## License
 This project is for educational purposes only.
