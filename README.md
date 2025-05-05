@@ -1,4 +1,4 @@
-# Hospital Management System (HospiTom)
+# Hospital Management System
 
 A Java-based desktop application for managing hospital operations such as patient records, nurse assignments, and doctor scheduling. Built using the Swing library and structured using the MVC (Model-View-Controller) pattern.
 
